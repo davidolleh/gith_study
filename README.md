@@ -1,2 +1,2 @@
 # gith_study
-git 공부
+git 공부 
