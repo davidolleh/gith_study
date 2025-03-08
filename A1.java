@@ -6,6 +6,10 @@ public class A1 {
     }
 
     public void hello() {
-        System.out.println("hello my name is" + name);
+        System.out.println("hello my name is " + name);
+    }
+
+    public void bye() {
+        System.out.println("ByeBye don't forgot my " + name);
     }
 }
